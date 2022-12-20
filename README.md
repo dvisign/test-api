@@ -6,6 +6,12 @@
 npm install
 ```
 
+## Project Start
+
+```sh
+npm run dev
+```
+
 ## DB set
 
 .env 파일의 DB_HOST, DB_PORT, DB_USER, DB_PASS, DB_DATEBASE를 DB정보에 맞게 수정
